@@ -4,5 +4,3 @@ msg= "Hello" + name + "!"
 
 print(msg)
 
-
-test 
